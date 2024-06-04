@@ -16,6 +16,9 @@ public class TestMain {
         // 在 master 分支上添加的内容
         System.out.println("Hello,Git in IDEA!");
 
+        // 在 hot-fix1 分支上又添加的内容
+        System.out.println("Hello2,Git in IDEA!");
+
     }
 
 }
