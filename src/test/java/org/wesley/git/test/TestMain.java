@@ -10,6 +10,9 @@ public class TestMain {
 
         System.out.println("2");
 
+        // 在 hot-fix1 分支上添加的内容
+        System.out.println("Hello,Git in IDEA!");
+
     }
 
 }
