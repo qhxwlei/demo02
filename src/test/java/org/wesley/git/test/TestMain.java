@@ -6,6 +6,8 @@ public class TestMain {
 
         System.out.println("Hello,Git in IDEA!");
 
+        System.out.println("1");
+
     }
 
 }
